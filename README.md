@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kushani Nimanthika</h1>
-<h3 align="center">A Data Science Enthusiast from Sri Lanka</h3>
 
 - 🌱 I’m currently pursuing **Bsc. (Hons.) Computing and Information Systems at Sabaragamuwa University of Sri Lanka.**
 
