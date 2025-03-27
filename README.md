@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushani Nimanthika</h1>
 
 - 🌱 I’m currently pursuing **Bsc. (Hons.) Computing and Information Systems at Sabaragamuwa University of Sri Lanka.**
-
-- 📫 How to reach me **kush5dec@gmail.com**
-
-- 📄 Know about my experiences [https://cresuma.com/r/5py365](https://cresuma.com/r/5py365)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamkushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamkushani" height="30" width="40" /></a>
